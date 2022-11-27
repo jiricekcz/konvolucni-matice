@@ -1,6 +1,14 @@
 # {Název úkolu}
 
-## Spuštění
+## Instalace a Spuštění
+
+### Instalace
+
+```bash
+pip install -r requirements.txt
+```
+
+### Spuštění
 
 ```bash
 python3 ./src/main.py "{INPUT_FILE}" "{OUTPUT_FILE}"
