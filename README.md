@@ -1,4 +1,4 @@
-# {Název úkolu}
+# Konvoluce
 
 ## Instalace a Spuštění
 
